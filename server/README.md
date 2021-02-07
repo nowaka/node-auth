@@ -1,5 +1,8 @@
-#Server
-##TODO:
+Server
+======
+TODO:
+------
+
 - [ ] Create Model entity
 - [ ] Expose signup endpoint
 - [ ] Expose login endpoint
